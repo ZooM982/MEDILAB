@@ -6,6 +6,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 
 
 export function NavBar(){
+    
     return(
         <section id="navbar">
             <Navbar expand="lg" className="fixed-top">

@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import './assets/main.js'
 import { Departements } from './components/Departements';
 import { Asked } from './components/Asked';
 import { Doctors } from './components/Doctors';
@@ -14,6 +15,8 @@ import { Header } from './components/Header';
 import { Count } from './components/Count';
 import { Contact } from './components/Contact.js';
 import { Footer } from './components/Footer.js';
+import { Back } from './components/Back-To-Top.js';
+import { Testimonies } from './components/Testimonies.js';
 
 function App() {
   return (
@@ -29,9 +32,11 @@ function App() {
       <Departements />
       <Doctors /> 
       <Asked />
+      <Testimonies />
       <Gallery />
       <Contact />
       <Footer />
+      <Back />
     </div>
   );
 }

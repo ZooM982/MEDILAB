@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import image1 from './images/gallery/gallery-1.jpg'
@@ -11,6 +12,22 @@ import image8 from './images/gallery/gallery-8.jpg'
 
 
 export function Gallery() {
+
+    // /**
+    //  * Initiate glightbox 
+    //  */
+    // const glightbox = GLightbox({
+    //     selector: '.glightbox'
+    //   });
+    
+    //   /**
+    //    * Initiate Gallery Lightbox 
+    //    */
+    //   const galelryLightbox = GLightbox({
+    //     selector: '.galelry-lightbox'
+    //   });
+
+
   return (
     <section id='gallery' className='py-5'>
         <Container fluid>
@@ -26,28 +43,44 @@ export function Gallery() {
                 </p>
             </div>
             <div className='image-card'>
-                <img alt='' src={image1} />
+                <a href={image1} className="galelry-lightbox">
+                    <img alt='' src={image1} />
+                </a>
             </div>
             <div className='image-card'>
-                <img alt='' src={image2} />
+                <a href={image2} className="galelry-lightbox">
+                    <img alt='' src={image2} />
+                </a>
             </div>
             <div className='image-card'>
-                <img alt='' src={image3} />
+                <a href={image3} className="galelry-lightbox">
+                    <img alt='' src={image3} />
+                </a>
             </div>
             <div className='image-card'>
-                <img alt='' src={image4} />
+                <a href={image4} className="galelry-lightbox">
+                    <img alt='' src={image4} />
+                </a>
             </div>
             <div className='image-card'>
-                <img alt='' src={image5} />
+                <a href={image5} className="galelry-lightbox">
+                    <img alt='' src={image5} />
+                </a>
             </div>
             <div className='image-card'>
-                <img alt='' src={image6} />
+                <a href={image6} className="galelry-lightbox">
+                    <img alt='' src={image6} />
+                </a>
             </div>
             <div className='image-card'>
-                <img alt='' src={image7} />
+                <a href={image7} className="galelry-lightbox">
+                    <img alt='' src={image7} />
+                </a>
             </div>
             <div className='image-card'>
-                <img alt='' src={image8} />
+                <a href={image8} className="galelry-lightbox">
+                    <img alt='' src={image8} />
+                </a>
             </div>
         </Row>
         </Container>
