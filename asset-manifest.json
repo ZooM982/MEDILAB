@@ -1,16 +1,34 @@
 {
   "files": {
-    "main.css": "/Medilab/static/css/main.f855e6bc.css",
-    "main.js": "/Medilab/static/js/main.199c8f28.js",
+    "main.css": "/Medilab/static/css/main.4ec2f870.css",
+    "main.js": "/Medilab/static/js/main.85d71d63.js",
     "static/js/787.7883b489.chunk.js": "/Medilab/static/js/787.7883b489.chunk.js",
-    "static/media/logo.svg": "/Medilab/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/hero-bg.jpg": "/Medilab/static/media/hero-bg.780df2f268b43ea6e3aa.jpg",
+    "static/media/gallery-4.jpg": "/Medilab/static/media/gallery-4.0b4e121d2167b471ea19.jpg",
+    "static/media/gallery-8.jpg": "/Medilab/static/media/gallery-8.2a6eb3cf293a10646f42.jpg",
+    "static/media/gallery-7.jpg": "/Medilab/static/media/gallery-7.ba75c5816cfabc5d0a81.jpg",
+    "static/media/gallery-1.jpg": "/Medilab/static/media/gallery-1.028f49fadfbafdfdde3a.jpg",
+    "static/media/gallery-3.jpg": "/Medilab/static/media/gallery-3.c1dfcb56b44c3253d381.jpg",
+    "static/media/departments-1.jpg": "/Medilab/static/media/departments-1.ab2c2b0dbddc8e594322.jpg",
+    "static/media/about.jpg": "/Medilab/static/media/about.ea024a9dc739b274705c.jpg",
+    "static/media/gallery-6.jpg": "/Medilab/static/media/gallery-6.8072f0352a5b78207738.jpg",
+    "static/media/gallery-5.jpg": "/Medilab/static/media/gallery-5.3e786b5053660edf67bf.jpg",
+    "static/media/departments-3.jpg": "/Medilab/static/media/departments-3.57c810f155fd42ce2edb.jpg",
+    "static/media/departments-4.jpg": "/Medilab/static/media/departments-4.40be9aaaeb4f845722cd.jpg",
+    "static/media/gallery-2.jpg": "/Medilab/static/media/gallery-2.c64b3cd5503064badcb0.jpg",
+    "static/media/departments-2.jpg": "/Medilab/static/media/departments-2.a7c48408c09f93a49408.jpg",
+    "static/media/doctors-4.jpg": "/Medilab/static/media/doctors-4.d2e578c3fa467ad05022.jpg",
+    "static/media/doctors-1.jpg": "/Medilab/static/media/doctors-1.eec585aaa98d4430c7c4.jpg",
+    "static/media/departments-5.jpg": "/Medilab/static/media/departments-5.e26ea60839e642c32ce0.jpg",
+    "static/media/doctors-3.jpg": "/Medilab/static/media/doctors-3.80b20cb68fe60a73a169.jpg",
+    "static/media/doctors-2.jpg": "/Medilab/static/media/doctors-2.07d1b7c11067d81329ad.jpg",
     "index.html": "/Medilab/index.html",
-    "main.f855e6bc.css.map": "/Medilab/static/css/main.f855e6bc.css.map",
-    "main.199c8f28.js.map": "/Medilab/static/js/main.199c8f28.js.map",
+    "main.4ec2f870.css.map": "/Medilab/static/css/main.4ec2f870.css.map",
+    "main.85d71d63.js.map": "/Medilab/static/js/main.85d71d63.js.map",
     "787.7883b489.chunk.js.map": "/Medilab/static/js/787.7883b489.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.199c8f28.js"
+    "static/css/main.4ec2f870.css",
+    "static/js/main.85d71d63.js"
   ]
 }
