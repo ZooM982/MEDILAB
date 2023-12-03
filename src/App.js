@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import './assets/main.js'
 import { Departements } from './components/Departements';
 import { Asked } from './components/Asked';
 import { Doctors } from './components/Doctors';

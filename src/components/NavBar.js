@@ -7,9 +7,21 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 
 export function NavBar(){
     
+    // let header = document.querySelector("#navbar");
+    // let lastScrollValue = 0;
+
+    // document.addEventListener('scroll',() => {
+    //         let top  = document.documentElement.scrollTop;
+    //     if(lastScrollValue < top) {
+    //         header.classList.add('hidden');
+    //     } else {
+    //         header.classList.remove('hidden');
+    //     }
+    //     lastScrollValue = top;
+    // });
     return(
         <section id="navbar">
-            <Navbar expand="lg" className="fixed-top">
+            <Navbar expand="lg" className="navbar fixed-top">
                 <Container>
                     <Navbar.Brand ><h2>Medilab</h2></Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />

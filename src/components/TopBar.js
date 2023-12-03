@@ -1,8 +1,9 @@
 import {Container, Row} from 'react-bootstrap'
 
 export function TopBar(){
+
     return (
-        <section id='topbar'>
+        <section id='topbar' className='fixed-top'>
             <Container className='d-flex align-items-center'>
                 <Row>
                     <div className='container d-flex justify-content-between'>
