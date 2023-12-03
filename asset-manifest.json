@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Medilab/static/css/main.5b7a3a1b.css",
-    "main.js": "/Medilab/static/js/main.98b4f66f.js",
+    "main.js": "/Medilab/static/js/main.7f4ffd34.js",
     "static/js/787.7883b489.chunk.js": "/Medilab/static/js/787.7883b489.chunk.js",
     "static/media/hero-bg.jpg": "/Medilab/static/media/hero-bg.780df2f268b43ea6e3aa.jpg",
     "static/media/gallery-4.jpg": "/Medilab/static/media/gallery-4.0b4e121d2167b471ea19.jpg",
@@ -29,11 +29,11 @@
     "static/media/testimonials-3.jpg": "/Medilab/static/media/testimonials-3.bec51ce16f238c7ec7b1.jpg",
     "index.html": "/Medilab/index.html",
     "main.5b7a3a1b.css.map": "/Medilab/static/css/main.5b7a3a1b.css.map",
-    "main.98b4f66f.js.map": "/Medilab/static/js/main.98b4f66f.js.map",
+    "main.7f4ffd34.js.map": "/Medilab/static/js/main.7f4ffd34.js.map",
     "787.7883b489.chunk.js.map": "/Medilab/static/js/787.7883b489.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b7a3a1b.css",
-    "static/js/main.98b4f66f.js"
+    "static/js/main.7f4ffd34.js"
   ]
 }
