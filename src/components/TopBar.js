@@ -7,7 +7,7 @@ export function TopBar(){
             <Container className='d-flex align-items-center'>
                 <Row>
                     <div className='container d-flex justify-content-between'>
-                        <div className='contact-info d-flex align-items-center'>
+                        <div className='contact-info d-flex align-items-center mx-auto'>
                             <i className="fa-solid fa-envelope"></i>  <a href='/'>contact@example.com</a>
                             <i className="fa-solid fa-mobile"></i>  <span>+1 5589 55488 55</span>
                         </div>

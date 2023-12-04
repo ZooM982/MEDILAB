@@ -82,6 +82,7 @@ body{
   line-height: 1;
   color: #444444;
   transition: 0.3s;
+  margin-right: 10px;
   text-decoration: none;
 }
 
@@ -979,9 +980,12 @@ body{
 }
 
 #footer .footer-top .footer-links ul li {
-  padding: 10px 0;
+  padding: 10px;
   display: flex;
   align-items: center;
+}
+#footer .footer-top .footer-links ul li a{
+  margin-left: 10px;
 }
 
 #footer .footer-top .footer-links ul li:first-child {

@@ -43,7 +43,7 @@ export function NavBar(){
                                     Separated link
                                 </NavDropdown.Item>
                             </NavDropdown>
-                            <Nav.Link className='scrollto' href="#contact">Contact</Nav.Link>
+                            <Nav.Link className='scrollto' href="#link">Contact</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                     <a href="#make" class="appointment-btn scrollto">Make an Appointment</a>
