@@ -1,5 +1,7 @@
 import { Container, Row } from "react-bootstrap"
 
+
+
 export function Count(){
     return (
         <section id="counts" class="counts">
@@ -10,7 +12,7 @@ export function Count(){
                         <div className="box">
                             <i class="fas fa-user-md"></i>
                         </div>
-                        <span class="purecounter"></span>
+                        <span class="num">85</span>
                         <p>Doctors</p>
                         </div>
                     </div>
@@ -20,7 +22,7 @@ export function Count(){
                         <div className="box">
                             <i class="far fa-hospital"></i>
                         </div>
-                        <span class="purecounter"></span>
+                        <span class="num">18</span>
                         <p>Departments</p>
                         </div>
                     </div>
@@ -30,7 +32,7 @@ export function Count(){
                         <div className="box">
                             <i class="fas fa-flask"></i>
                         </div>
-                        <span class="purecounter"></span>
+                        <span class="num">12</span>
                         <p>Research Labs</p>
                         </div>
                     </div>
@@ -40,7 +42,7 @@ export function Count(){
                         <div className="box">
                             <i class="fas fa-award"></i>
                         </div>
-                        <span  class="purecounter"></span>
+                        <span  class="num">150</span>
                         <p>Awards</p>
                         </div>
                     </div>
